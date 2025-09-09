@@ -1,0 +1,8 @@
+print ("Hello Word")
+print("Hello Again")
+print("I like typing this")
+print("This is fun")
+print("Yay! Printing")
+print("I'd much rucking")
+print("I'll do awesome")
+print("My favorite color is blue")
