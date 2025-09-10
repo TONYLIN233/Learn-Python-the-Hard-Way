@@ -21,3 +21,5 @@ print("Is it greedy.",5 <= -2)
 print("is float",4.0 / 3.0)
 #python3中修复了python2.X中整数 / 整数的结果会自动向下取整（地板除）的问题
 print("is int",4 / 3)
+#%获取余数
+print("what is 17%3?",17%3)
